@@ -7,7 +7,7 @@ export default function Page() {
         <section className="relative flex h-32 items-end bg-gray-900 lg:col-span-5 lg:h-full xl:col-span-6">
           <img
             alt=""
-            src="https://media.licdn.com/dms/image/v2/D5622AQHJQIPmepd9Ag/feedshare-shrink_800/feedshare-shrink_800/0/1730050332444?e=1732752000&v=beta&t=cbqdBiDk0Utwys62FZBZqzBgQNLAChwg-GOaVNYGjDo"
+            src="https://media.licdn.com/dms/image/v2/D5622AQHJQIPmepd9Ag/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730050332594?e=1735776000&v=beta&t=ET2_Fu7NOwf0kNdvWc6w5ExeSsIMa0Ipr2RaFtjy_NU"
             className="absolute inset-0 h-full w-full object-cover opacity-80"
           />
 
